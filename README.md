@@ -5,6 +5,8 @@
 - Diego Andres Caballero Fernandez  
 - Juan Diego Muñoz Buitrago  
 
+Link del video en youtube: 
+https://youtu.be/mK2RxFQu53c
 ---
 
 ## 📌 Práctica 2: Sistema de Gestión de Ventas de Vehículos en Prolog  
